@@ -18,7 +18,7 @@ This project is a basic implementation of the Tic-Tac-Toe game written in Python
 2. Run the `tic_tac_toe.py` file to start the game.
 3. Follow the on-screen instructions to make your moves.
 
-##Usage
+## Usage
 
 - Use the numeric keys to specify the row and column for your move.
 - The game will display the current state of the board after each move.
